@@ -1,1 +1,1 @@
-The prokaryotic module of reactive species reactions were constructed from the eukaryotic reactive species reactions which were based on the reactive species that are known to be present in Escherichia coli
+The prokaryotic module of reactive species reactions was constructed from the eukaryotic reactive species reactions, which were based on the reactive species that are known to be present in Escherichia coli (RSmodel_Recon3D1_2023_ecoli.mat). The details about the reactions and metabolites are given in the ecoliRSRM.xls excel sheet.
